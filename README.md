@@ -13,8 +13,7 @@
 <p align="justify">
   Men Eshmatov Sardor, hozirda TATU Samarqand filialida 2-kurs talabasi bo‘lib, Dasturiy injiniring yo‘nalishida tahsil olaman. 
   Asosan backend dasturlashga ixtisoslashganman va Telegram botlar, Node.js hamda Python texnologiyalarida faol ishlab kelmoqdaman.
-  Doimiy ravishda yangi texnologiyalarni o‘rganishga, amaliy loyihalar ustida ishlashga intilaman. Mening loyihalarimdan biri — 
-  <b>“Polyachi” onlayn do‘kon platformasi</b>.
+  Doimiy ravishda yangi texnologiyalarni o‘rganishga, amaliy loyihalar ustida ishlashga intilaman.
 </p>
 
 <h2 align="center">💻 Texnologiyalarim:</h2>
@@ -29,11 +28,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" alt="Node.js"/>
 </p>
 
-<h2 align="center">🚀 Loyihalar:</h2>
 
-<ul>
-  <li><b>Polyachi</b> – Onlayn do‘kon platformasi (Telegram orqali ishlaydi)</li>
-</ul>
 
 <h2 align="center">📫 Bog‘lanish:</h2>
 
